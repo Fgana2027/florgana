@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/fgana2027/TU_REPOSITORIO/blob/main/banner.png" alt="Florencia Gana - Ciencia de Datos y Automatización de Procesos" style="width:100%;border-radius:10px;">
+  <img src="Banner.png" alt="Florencia Gana - Ciencia de Datos y Automatización de Procesos" style="width:100%;border-radius:10px;">
 </div>
 
 # <div align="center">🌟 Hola, soy Florencia! 🌟</div>
@@ -18,7 +18,7 @@
 
 ## 🛠️ Sobre Mí
 <div style="font-size:16px;color:#333;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-¡Hola! Soy Florencia, una profesional multifacética que combina creatividad y tecnología para construir soluciones innovadoras. Me especializo en:
+¡Hola! Soy Florencia, profesional en ciencia de datos y desarrollo. Combino creatividad y tecnología para construir soluciones innovadoras. Me especializo en:
 <ul style="list-style-type: none;">
   <li>🔍 <strong>Análisis de Datos:</strong> Transformar números en ideas estratégicas.</li>
   <li>🧐 <strong>Automatización de Procesos:</strong> Hacer la vida más fácil con flujos de trabajo eficientes.</li>
