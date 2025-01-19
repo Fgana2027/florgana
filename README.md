@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hola, soy Florencia 🙋‍♀️. Me apasiona la programación 💻, la automatización de procesos 🤖 y el trabajo con datos 📊. Me dedico a analizar y gestionar información en entornos como finanzas 💰, bancos 🏦 y marketing 📈, transformando datos en decisiones estratégicas. Soy multifacética 🌟, ya que combino mi interés por la tecnología con mi lado creativo, desarrollando soluciones personalizadas y eficientes. Disfruto crear, innovar y aportar valor en cada proyecto que emprendo ✨🚀.</h2>
 
 ###
 
