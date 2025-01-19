@@ -98,7 +98,7 @@ Cuando no estoy trabajando con datos o escribiendo código, me encanta crear dis
     <br>
     🌎 <strong>Web:</strong> <a href="https://www.datapixel.tech" style="color:#000;">www.datapixel.tech</a>  
     <br>
-    💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/fgana2027" style="color:#000;">Perfil de LinkedIn</a>
+    💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/fgana2027](https://www.linkedin.com/feed/" style="color:#000;">Perfil de LinkedIn</a>
   </p>
 </div>
 
