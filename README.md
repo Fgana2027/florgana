@@ -28,6 +28,18 @@ Cuando no estoy trabajando con datos o escribiendo código, me encanta crear dis
 </div>
 
 ---
+## 🌱 Habilidades
+
+## 🌱 Habilidades
+
+### Python 🐍
+![Python](https://img.shields.io/badge/-80%25-success?style=for-the-badge)
+
+### SQL 📄
+![SQL](https://img.shields.io/badge/-90%25-blue?style=for-the-badge)
+
+### Power BI 📊
+![Power BI](https://img.shields.io/badge/-70%25-yellow?style=for-the-badge)
 
 ## 🌱 Habilidades Animadas
 <div align="center" style="background-color:#1e1e1e;padding:20px;border-radius:15px;">
