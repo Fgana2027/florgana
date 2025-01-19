@@ -31,7 +31,9 @@ Cuando no estoy trabajando con datos o escribiendo código, me encanta crear dis
 ## 🌱 Habilidades
 ### 🐍 Actividad de mi repositorio
 
-![Snake animation](https://github.com/fgana2027/snake.yml)
+### 🐍 Actividad de mi repositorio
+
+![Snake animation](https://github.com/fgana2027/snake.yml/blob/output/snake.svg)
 
 ## 🌱 Habilidades
 
