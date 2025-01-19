@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1200x400.png?text=Bienvenido+a+mi+GitHub+%E2%9C%A8" alt="Imagen de Encabezado" style="width:100%;border-radius:15px;">
+  <img src="https://github.com/fgana2027/TU_REPOSITORIO/blob/main/banner.png" alt="Florencia Gana - Ciencia de Datos y Automatización de Procesos" style="width:100%;border-radius:10px;">
 </div>
 
 # <div align="center">🌟 Hola, soy Florencia! 🌟</div>
@@ -94,11 +94,11 @@ Cuando no estoy trabajando con datos o escribiendo código, me encanta crear dis
 ## 🌐 Conéctate Conmigo
 <div align="center">
   <p style="font-size:16px;color:#555;">
-    📧 <strong>Email:</strong> <a href="mailto:your-email@example.com" style="color:#000;">your-email@example.com</a>  
+    📧 <strong>Email:</strong> <a href="mailto:contacto@datapixel.tech" style="color:#000;">contacto@datapixel.tech</a>  
     <br>
-    🌎 <strong>Web:</strong> <a href="https://www.example.com" style="color:#000;">www.florencia-tech.com</a>  
+    🌎 <strong>Web:</strong> <a href="https://www.datapixel.tech" style="color:#000;">www.datapixel.tech</a>  
     <br>
-    💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/your-profile" style="color:#000;">Perfil de LinkedIn</a>
+    💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/fgana2027" style="color:#000;">Perfil de LinkedIn</a>
   </p>
 </div>
 
@@ -114,5 +114,5 @@ Cuando no estoy trabajando con datos o escribiendo código, me encanta crear dis
 ---
 
 <div align="center">
-  <img src="https://via.placeholder.com/1200x100.png?text=Gracias+por+Visitar%21+🌟" alt="Imagen de Pie de Página" style="width:100%;border-radius:15px;">
+  <img src="https://github.com/fgana2027/TU_REPOSITORIO/blob/main/banner.png" alt="Gracias por visitar" style="width:100%;border-radius:10px;">
 </div>
